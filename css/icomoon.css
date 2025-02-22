@@ -128,3 +128,7 @@
 .icon-linkedin:before {
     content: "\e19f";
 }
+
+.icon-linkedins:before {
+    content: "";
+}
